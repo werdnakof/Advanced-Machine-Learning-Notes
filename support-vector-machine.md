@@ -5,6 +5,7 @@
 
 <h1 id="svm">SVM</h1>
 <p><strong>Looks for decision margin which maximize points to hyperplane</strong></p>
+<p><img src="https://github.com/werdnakof/Advanced-Machine-Learning-Notes/blob/master/images/svm.png?raw=true" alt=""></p>
 <p><span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>=</mo><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo separator="true">,</mo><msub><mi>x</mi><mn>2</mn></msub><mo separator="true">,</mo><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mo separator="true">,</mo><msub><mi>x</mi><mi>p</mi></msub><mo>)</mo><mo>→</mo><mi>ϕ</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mo>(</mo><msub><mi>ϕ</mi><mn>1</mn></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo separator="true">,</mo><msub><mi>ϕ</mi><mn>2</mn></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo separator="true">,</mo><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mo separator="true">,</mo><msub><mi>ϕ</mi><mi>m</mi></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo></mrow><annotation encoding="application/x-tex">
 x = (x_1, x_2, ... , x_p) \rightarrow 
 \phi(x) = (\phi_1(x), \phi_2(x), ... , \phi_m(x))  
