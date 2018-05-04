@@ -9,7 +9,7 @@ Steps:
 2. Each decision rule depends on a single feature
 3. The proportion of the data points in leaf $L$ belonging to class $c$ is:
 	$$
-	p_c(L) = \frac{1}{|2|} \sum_{(x, } 2^{-n}
+	p_c(L) = \frac{1}{|2|} \sum_{(x, y) \in L} [y = c]
 	$$
 4. At each step rule is chosen that maximise the "_purity_" of the leaf.
 
@@ -21,6 +21,6 @@ Steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMxMTIwLC0xMTc1ODE4NTc3LC0zMj
+eyJoaXN0b3J5IjpbMTU0NzM2ODM3LC0xMTc1ODE4NTc3LC0zMj
 QzNDEyNDksMTk0MDAzOTgxNywxNzI1OTE5OTI0XX0=
 -->
