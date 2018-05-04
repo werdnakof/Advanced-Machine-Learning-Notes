@@ -8,10 +8,8 @@ Steps:
 ![](https://github.com/werdnakof/Advanced-Machine-Learning-Notes/blob/master/images/ensembleLearning1.png?raw=true)
 2. Each decision rule depends on a single feature
 3. The proportion of the data points in leaf $L$ belonging to class $c$ is:
-	$$
-	p_c(L) = \frac{1}{|L|} \sum_{(x, y) \in L} [y = c]
-	$$
-( 	where $[y = c] = 1 $ if $y = c$ and $0$ otherwise )
+	$$p_c(L) = \frac{1}{|L|} \sum_{(x, y) \in L} [y = c]$$
+	(where $[y = c] = 1$ if $y = c$ and $0$ otherwise )
 4. At each step rule is chosen that maximise the "_purity_" of the leaf.
 
 
@@ -21,7 +19,9 @@ Steps:
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjAwMTY2NSwtMTE3NTgxODU3NywtMz
-I0MzQxMjQ5LDE5NDAwMzk4MTcsMTcyNTkxOTkyNF19
+eyJoaXN0b3J5IjpbNjE1Mzc2MjE3LC0xMTc1ODE4NTc3LC0zMj
+QzNDEyNDksMTk0MDAzOTgxNywxNzI1OTE5OTI0XX0=
 -->
