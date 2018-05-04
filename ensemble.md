@@ -23,6 +23,5 @@ Two different purity measures $Q_m(L)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU2NTAzNjksLTExNzU4MTg1NzcsLT
-MyNDM0MTI0OSwxOTQwMDM5ODE3LDE3MjU5MTk5MjRdfQ==
+eyJoaXN0b3J5IjpbLTE5NDU2NTAzNjldfQ==
 -->
