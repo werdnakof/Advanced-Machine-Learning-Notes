@@ -6,7 +6,9 @@
 - (nevertheless, even for deep learning taking the average response of many machines is usually done to win competitions)
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDM0MTI0OSwxOTQwMDM5ODE3LDE3Mj
-U5MTk5MjRdfQ==
+eyJoaXN0b3J5IjpbMTQ1ODkwNTk0NywtMzI0MzQxMjQ5LDE5ND
+AwMzk4MTcsMTcyNTkxOTkyNF19
 -->
