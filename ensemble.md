@@ -12,7 +12,9 @@ Steps:
 	(where $[y = c] = 1$ if $y = c$ and $0$ otherwise )
 4. At each step rule is chosen that maximise the "_purity_" of the leaf.
 
-Two different purity measures $Q_m(L)$ 
+Two different purity measures $Q_m(L)$
+
+
 
 
 
@@ -23,5 +25,5 @@ Two different purity measures $Q_m(L)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU2NTAzNjldfQ==
+eyJoaXN0b3J5IjpbMTcwMDIxMzc0MSwtMTk0NTY1MDM2OV19
 -->
