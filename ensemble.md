@@ -5,17 +5,19 @@
 
 Steps:
 1. Decision trees build binary tree to partition the data $D = {(x, y)}$, into _leaves_.
-2. Each decision rule depends on a single feature
-3. At each step rule is chosen that maximise the "_purity_" of the leaf.
-
-
 ![](https://github.com/werdnakof/Advanced-Machine-Learning-Notes/blob/master/images/ensembleLearning1.png?raw=true)
+2. Each decision rule depends on a single feature
+3. The proportion of the data points in leaf $$
+4. At each step rule is chosen that maximise the "_purity_" of the leaf.
+
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjk2NDU3MCwtMTE3NTgxODU3NywtMz
+eyJoaXN0b3J5IjpbLTczODY2NjExOSwtMTE3NTgxODU3NywtMz
 I0MzQxMjQ5LDE5NDAwMzk4MTcsMTcyNTkxOTkyNF19
 -->
