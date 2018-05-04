@@ -4,11 +4,13 @@
 - A number of different techniques for doing this that go by the name of ensemble methods or ensemble learning
 
 Steps:
-Decision trees build binary tree
+1. Decision trees build binary tree to partition the data $D = {(x, y)}$, into _leaves_.
+2. Each decision rule depends on a single feature
+3. At each step 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNDQzNzE0LC0zMjQzNDEyNDksMTk0MD
-AzOTgxNywxNzI1OTE5OTI0XX0=
+eyJoaXN0b3J5IjpbLTIwODY0MTY3NjcsLTMyNDM0MTI0OSwxOT
+QwMDM5ODE3LDE3MjU5MTk5MjRdfQ==
 -->
